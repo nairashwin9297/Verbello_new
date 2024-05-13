@@ -4,36 +4,21 @@ const OpenAI = require('openai');
 
 
 
-const openai = new OpenAI({
-  apiKey:"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"
-});
+// async function generate(req, res)  {
+//   console.log("INSIDE Function")
 
-// const OpenAI = require('openai');
+//   console.log
 
-// const openai = new OpenAI(process.env.OPENAI_API_KEY);
+//   try {
+//     const response = await openai.images.generate({prompt: "A cute baby sea otter",n:1,size:"1024x1024",response_format: 'url',});
 
-async function generate(req, res)  {
-  console.log("INSIDE Function")
-  // console.log(openai,"AIIII")
-  // const prompt = req.body.prompt; // Get prompt from request
-  console.log
+//     console.log(response,'RESS');
 
-  try {
-    const response = await openai.images.generate({prompt: "A cute baby sea otter",n:1,size:"1024x1024",response_format: 'url',});
-
-    console.log(response,'RESS');
-    // const response = await openai.createImage({
-    //   prompt: prompt,
-    //   n: 1, // Number of images to generate
-    //   size: '1024x1024', // Image size
-    // });
-
-    // res.json({ data: response.data[0] });
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ message: 'Image generation failed' });
-  }
-};
+//   } catch (error) {
+//     console.error(error);
+//     res.status(500).json({ message: 'Image generation failed' });
+//   }
+// };
 
 async function check(req, res) {
   // const { email, password } = req.body;
