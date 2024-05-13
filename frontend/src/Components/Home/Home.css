@@ -1,0 +1,26 @@
+.custom-header {
+  color: #00c1be;
+}
+
+.language-name {
+  color: #320c8b;
+}
+
+.languages-offered {
+  border: none;
+  background-color: #f8fefd;
+}
+
+.card-language {
+  perspective: 1000px; /* Adds a 3D perspective effect */
+  transition: transform 0.5s;
+  background-color: #f8fefd;
+}
+
+.card-language:hover {
+  transform: scale(1.1) rotateY(10deg) rotateX(10deg); /* Scales and rotates the card on hover */
+}
+
+/* .country {
+  border-radius: 1em;
+} */

@@ -1,0 +1,168 @@
+.admin-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .admin-content {
+    flex-grow: 1;
+    padding: 40px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .admin-heading {
+    color: #333;
+  }
+  
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    padding: 8px;
+    width: 200px;
+  }
+  
+  .search-button {
+    padding: 8px 12px;
+    background-color: #24bdd7;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+  }
+  
+  .admin-table {
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #24bdd7;
+    color: #fff;
+  }
+  
+  .toggle-button {
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .enabled {
+    background-color: #5cb85c;
+    color: #fff;
+  }
+  
+  .disabled {
+    background-color: #d9534f;
+    color: #fff;
+  }
+
+  .search-button {
+    padding: 8px 12px;
+    background-color: #24bdd7;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    animation: bounce 1s infinite; /* Add animation by default */
+  }
+  
+  /* Stop animation on hover */
+  .search-button:hover {
+    animation: none;
+  }
+  
+  /* Add bounce animation */
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-20px);
+    }
+    60% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  .admin-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .admin-content {
+    flex-grow: 1;
+    padding: 40px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .admin-heading {
+    color: #333;
+  }
+  
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    padding: 8px;
+    width: 200px;
+  }
+  
+  .admin-table {
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #24bdd7;
+    color: #fff;
+  }
+  
+  .toggle-button {
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .enabled {
+    background-color: #5cb85c;
+    color: #fff;
+  }
+  
+  .disabled {
+    background-color: #d9534f;
+    color: #fff;
+  }
+  
+  

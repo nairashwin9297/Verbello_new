@@ -1,0 +1,1195 @@
+[
+   
+    {
+      "lesson": "Colors",
+      "question": "What is the color blue in Spanish?",
+      "options": [
+        { "type": "Azul", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "How do you say 'red' in Spanish?",
+      "options": [
+        { "type": "Rojo", "isAnswer": true },
+        { "type": "Azul", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "Which word represents the color 'green' in Spanish?",
+      "options": [
+        { "type": "Verde", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Azul", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "Translate 'yellow' to Spanish.",
+      "options": [
+        { "type": "Amarillo", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Azul", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "What is the Spanish word for 'orange'?",
+      "options": [
+        { "type": "Naranja", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "How do you say 'purple' in Spanish?",
+      "options": [
+        { "type": "Morado", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "Translate 'brown' to Spanish.",
+      "options": [
+        { "type": "Marrón", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "Which word means 'pink' in Spanish?",
+      "options": [
+        { "type": "Rosa", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "What is the Spanish word for 'black'?",
+      "options": [
+        { "type": "Negro", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Colors",
+      "question": "Translate 'white' to Spanish.",
+      "options": [
+        { "type": "Blanco", "isAnswer": true },
+        { "type": "Rojo", "isAnswer": false },
+        { "type": "Verde", "isAnswer": false },
+        { "type": "Amarillo", "isAnswer": false }
+      ]
+    },
+  
+    
+    {
+      "lesson": "Fruits",
+      "question": "How do you say 'apple' in Spanish?",
+      "options": [
+        { "type": "Manzana", "isAnswer": true },
+        { "type": "Banana", "isAnswer": false },
+        { "type": "Naranja", "isAnswer": false },
+        { "type": "Fresa", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Fruits",
+      "question": "What is the Spanish word for 'banana'?",
+      "options": [
+        { "type": "Plátano", "isAnswer": true },
+        { "type": "Manzana", "isAnswer": false },
+        { "type": "Naranja", "isAnswer": false },
+        { "type": "Fresa", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Fruits",
+      "question": "Translate 'orange' to Spanish.",
+      "options": [
+        { "type": "Naranja", "isAnswer": true },
+        { "type": "Manzana", "isAnswer": false },
+        { "type": "Plátano", "isAnswer": false },
+        { "type": "Fresa", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Fruits",
+      "question": "What is the Spanish word for 'strawberry'?",
+      "options": [
+        { "type": "Fresa", "isAnswer": true },
+        { "type": "Manzana", "isAnswer": false },
+        { "type": "Plátano", "isAnswer": false },
+        { "type": "Naranja", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Fruits",
+      "question": "Translate 'grape' to Spanish.",
+      "options": [
+        { "type": "Uva", "isAnswer": true },
+        { "type": "Manzana", "isAnswer": false },
+        { "type": "Plátano", "isAnswer": false },
+        { "type": "Naranja", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Fruits",
+      "question": "How do you say 'pineapple' in Spanish?",
+      "options": [
+        { "type": "Piña", "isAnswer": true },
+        { "type": "Manzana", "isAnswer": false },
+        { "type": "Plátano", "isAnswer": false },
+        { "type": "Naranja", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Fruits",
+      "question": "What is the Spanish word for 'watermelon'?",
+      "options": [
+        { "type": "Sandía", "isAnswer": true },
+        { "type": "Manzana", "isAnswer": false },
+        { "type": "Plátano", "isAnswer": false },
+        { "type": "Naranja", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Fruits",
+      "question": "Translate 'mango' to Spanish.",
+      "options": [
+        { "type": "Mango", "isAnswer": true },
+        { "type": "Manzana", "isAnswer": false },
+        { "type": "Plátano", "isAnswer": false },
+        { "type": "Naranja", "isAnswer": false }
+      ]
+    },
+  
+    
+    {
+      "lesson": "Vegetables",
+      "question": "What is the Spanish word for 'carrot'?",
+      "options": [
+        { "type": "Zanahoria", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false },
+        { "type": "Cebolla", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "Translate 'tomato' to Spanish.",
+      "options": [
+        { "type": "Tomate", "isAnswer": true },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false },
+        { "type": "Cebolla", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "How do you say 'lettuce' in Spanish?",
+      "options": [
+        { "type": "Lechuga", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Cebolla", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "What is the Spanish word for 'onion'?",
+      "options": [
+        { "type": "Cebolla", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "Translate 'potato' to Spanish.",
+      "options": [
+        { "type": "Patata", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "How do you say 'pepper' in Spanish?",
+      "options": [
+        { "type": "Pimiento", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "What is the Spanish word for 'broccoli'?",
+      "options": [
+        { "type": "Brócoli", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "Translate 'cucumber' to Spanish.",
+      "options": [
+        { "type": "Pepino", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "How do you say 'garlic' in Spanish?",
+      "options": [
+        { "type": "Ajo", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Vegetables",
+      "question": "What is the Spanish word for 'spinach'?",
+      "options": [
+        { "type": "Espinaca", "isAnswer": true },
+        { "type": "Tomate", "isAnswer": false },
+        { "type": "Zanahoria", "isAnswer": false },
+        { "type": "Lechuga", "isAnswer": false }
+      ]
+    },
+     {
+      "lesson": "Birds",
+      "question": "What is the Spanish word for 'sparrow'?",
+      "options": [
+        { "type": "Gorrión", "isAnswer": true },
+        { "type": "Águila", "isAnswer": false },
+        { "type": "Búho", "isAnswer": false },
+        { "type": "Pato", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "Translate 'hawk' to Spanish.",
+      "options": [
+        { "type": "Halcón", "isAnswer": true },
+        { "type": "Gorrión", "isAnswer": false },
+        { "type": "Avestruz", "isAnswer": false },
+        { "type": "Cuervo", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "How do you say 'parrot' in Spanish?",
+      "options": [
+        { "type": "Loro", "isAnswer": true },
+        { "type": "Colibrí", "isAnswer": false },
+        { "type": "Pingüino", "isAnswer": false },
+        { "type": "Gaviota", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "Translate 'owl' to Spanish.",
+      "options": [
+        { "type": "Búho", "isAnswer": true },
+        { "type": "Águila", "isAnswer": false },
+        { "type": "Cuervo", "isAnswer": false },
+        { "type": "Gorrión", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "What is the Spanish word for 'penguin'?",
+      "options": [
+        { "type": "Pingüino", "isAnswer": true },
+        { "type": "Loro", "isAnswer": false },
+        { "type": "Águila", "isAnswer": false },
+        { "type": "Colibrí", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "Translate 'seagull' to Spanish.",
+      "options": [
+        { "type": "Gaviota", "isAnswer": true },
+        { "type": "Pingüino", "isAnswer": false },
+        { "type": "Cuervo", "isAnswer": false },
+        { "type": "Búho", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "How do you say 'swan' in Spanish?",
+      "options": [
+        { "type": "Cisne", "isAnswer": true },
+        { "type": "Loro", "isAnswer": false },
+        { "type": "Águila", "isAnswer": false },
+        { "type": "Colibrí", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "Translate 'eagle' to Spanish.",
+      "options": [
+        { "type": "Águila", "isAnswer": true },
+        { "type": "Loro", "isAnswer": false },
+        { "type": "Pingüino", "isAnswer": false },
+        { "type": "Búho", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "What is the Spanish word for 'hummingbird'?",
+      "options": [
+        { "type": "Colibrí", "isAnswer": true },
+        { "type": "Águila", "isAnswer": false },
+        { "type": "Gorrión", "isAnswer": false },
+        { "type": "Cisne", "isAnswer": false }
+      ]
+    },
+    {
+      "lesson": "Birds",
+      "question": "Translate 'crow' to Spanish.",
+      "options": [
+        { "type": "Cuervo", "isAnswer": true },
+        { "type": "Pingüino", "isAnswer": false },
+        { "type": "Gorrión", "isAnswer": false },
+        { "type": "Gaviota", "isAnswer": false }
+      ]
+    },
+   
+{
+    "lesson": "Animals",
+    "question": "How do you say 'elephant' in Spanish?",
+    "options": [
+      { "type": "Elefante", "isAnswer": true },
+      { "type": "León", "isAnswer": false },
+      { "type": "Tigre", "isAnswer": false },
+      { "type": "Cebra", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "Translate 'giraffe' to Spanish.",
+    "options": [
+      { "type": "Jirafa", "isAnswer": true },
+      { "type": "Mono", "isAnswer": false },
+      { "type": "Hipopótamo", "isAnswer": false },
+      { "type": "Tortuga", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "What is the Spanish word for 'lion'?",
+    "options": [
+      { "type": "León", "isAnswer": true },
+      { "type": "Elefante", "isAnswer": false },
+      { "type": "Tigre", "isAnswer": false },
+      { "type": "Cebra", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "Translate 'turtle' to Spanish.",
+    "options": [
+      { "type": "Tortuga", "isAnswer": true },
+      { "type": "Jirafa", "isAnswer": false },
+      { "type": "Hipopótamo", "isAnswer": false },
+      { "type": "León", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "How do you say 'monkey' in Spanish?",
+    "options": [
+      { "type": "Mono", "isAnswer": true },
+      { "type": "Elefante", "isAnswer": false },
+      { "type": "Tigre", "isAnswer": false },
+      { "type": "Jirafa", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "What is the Spanish word for 'zebra'?",
+    "options": [
+      { "type": "Cebra", "isAnswer": true },
+      { "type": "León", "isAnswer": false },
+      { "type": "Hipopótamo", "isAnswer": false },
+      { "type": "Tortuga", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "Translate 'hippopotamus' to Spanish.",
+    "options": [
+      { "type": "Hipopótamo", "isAnswer": true },
+      { "type": "Mono", "isAnswer": false },
+      { "type": "Tigre", "isAnswer": false },
+      { "type": "León", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "How do you say 'tiger' in Spanish?",
+    "options": [
+      { "type": "Tigre", "isAnswer": true },
+      { "type": "Cebra", "isAnswer": false },
+      { "type": "Jirafa", "isAnswer": false },
+      { "type": "Elefante", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "What is the Spanish word for 'giraffe'?",
+    "options": [
+      { "type": "Jirafa", "isAnswer": true },
+      { "type": "León", "isAnswer": false },
+      { "type": "Tigre", "isAnswer": false },
+      { "type": "Mono", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Animals",
+    "question": "Translate 'rhinoceros' to Spanish.",
+    "options": [
+      { "type": "Rinoceronte", "isAnswer": true },
+      { "type": "Hipopótamo", "isAnswer": false },
+      { "type": "Mono", "isAnswer": false },
+      { "type": "León", "isAnswer": false }
+    ]
+  },
+
+{
+    "lesson": "Tenses",
+    "question": "What is the correct form of the verb 'to eat' in the present tense for 'yo' (I)?",
+    "options": [
+      { "type": "Como", "isAnswer": true },
+      { "type": "Comes", "isAnswer": false },
+      { "type": "Comerá", "isAnswer": false },
+      { "type": "Comí", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "Translate 'I will study' to Spanish.",
+    "options": [
+      { "type": "Estudiaré", "isAnswer": true },
+      { "type": "Estudié", "isAnswer": false },
+      { "type": "Estudiaba", "isAnswer": false },
+      { "type": "Estudias", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "How do you say 'they are sleeping' in Spanish?",
+    "options": [
+      { "type": "Ellos están durmiendo", "isAnswer": true },
+      { "type": "Ellos duermen", "isAnswer": false },
+      { "type": "Ellos dormirán", "isAnswer": false },
+      { "type": "Ellos dormían", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "Translate 'we had eaten' to Spanish.",
+    "options": [
+      { "type": "Habíamos comido", "isAnswer": true },
+      { "type": "Hemos comido", "isAnswer": false },
+      { "type": "Comimos", "isAnswer": false },
+      { "type": "Comeremos", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "What is the Spanish word for 'I will go'?",
+    "options": [
+      { "type": "Voy a ir", "isAnswer": true },
+      { "type": "Voy ir", "isAnswer": false },
+      { "type": "Yo iré", "isAnswer": false },
+      { "type": "Yo voy", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "How do you say 'she had worked' in Spanish?",
+    "options": [
+      { "type": "Ella había trabajado", "isAnswer": true },
+      { "type": "Ella trabaja", "isAnswer": false },
+      { "type": "Ella trabajó", "isAnswer": false },
+      { "type": "Ella trabajará", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "Translate 'you will speak' to Spanish.",
+    "options": [
+      { "type": "Hablarás", "isAnswer": true },
+      { "type": "Hablas", "isAnswer": false },
+      { "type": "Hablarías", "isAnswer": false },
+      { "type": "Hablé", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "What is the correct form of the verb 'to write' in the present tense for 'ellas' (they)?",
+    "options": [
+      { "type": "Escriben", "isAnswer": true },
+      { "type": "Escriben", "isAnswer": false },
+      { "type": "Escribirán", "isAnswer": false },
+      { "type": "Escribirán", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "Translate 'I had seen' to Spanish.",
+    "options": [
+      { "type": "Yo había visto", "isAnswer": true },
+      { "type": "Yo veré", "isAnswer": false },
+      { "type": "Yo veo", "isAnswer": false },
+      { "type": "Yo vi", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Tenses",
+    "question": "How do you say 'we will eat' in Spanish?",
+    "options": [
+      { "type": "Comeremos", "isAnswer": true },
+      { "type": "Comemos", "isAnswer": false },
+      { "type": "Comíamos", "isAnswer": false },
+      { "type": "Comimos", "isAnswer": false }
+    ]
+  },
+ 
+{
+    "lesson": "Articles",
+    "question": "What is the Spanish definite article for 'elefante' (elephant)?",
+    "options": [
+      { "type": "Un", "isAnswer": false },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": true },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "Which Spanish article is used before the word 'manzana' (apple)?",
+    "options": [
+      { "type": "Un", "isAnswer": false },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": true },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "What is the Spanish indefinite article for 'universidad' (university)?",
+    "options": [
+      { "type": "Un", "isAnswer": true },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": false },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "Which Spanish article would you use before the word 'hora' (hour)?",
+    "options": [
+      { "type": "Un", "isAnswer": false },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": true },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "What is the Spanish definite article for 'océano' (ocean)?",
+    "options": [
+      { "type": "Un", "isAnswer": false },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": true },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "Which Spanish article is used before the word 'universidad' (university)?",
+    "options": [
+      { "type": "Un", "isAnswer": true },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": false },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "What is the Spanish indefinite article for 'hombre' (man)?",
+    "options": [
+      { "type": "Un", "isAnswer": true },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": false },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "Which Spanish article would you use before the word 'universidad' (university)?",
+    "options": [
+      { "type": "Un", "isAnswer": true },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": false },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "What is the Spanish definite article for 'banano' (banana)?",
+    "options": [
+      { "type": "Un", "isAnswer": false },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": true },
+      { "type": "La", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Articles",
+    "question": "Which Spanish article is used before the word 'agua' (water)?",
+    "options": [
+      { "type": "Un", "isAnswer": false },
+      { "type": "Una", "isAnswer": false },
+      { "type": "El", "isAnswer": false },
+      { "type": "La", "isAnswer": true }
+    ]
+  },
+  
+{
+    "lesson": "Adjectives",
+    "question": "Which adjective would you use to describe a 'big' house in Spanish?",
+    "options": [
+      { "type": "Pequeño", "isAnswer": false },
+      { "type": "Alto", "isAnswer": false },
+      { "type": "Grande", "isAnswer": true },
+      { "type": "Nuevo", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "Translate 'beautiful' to Spanish.",
+    "options": [
+      { "type": "Feo", "isAnswer": false },
+      { "type": "Hermoso", "isAnswer": true },
+      { "type": "Viejo", "isAnswer": false },
+      { "type": "Rápido", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "What is the Spanish adjective for 'happy'?",
+    "options": [
+      { "type": "Triste", "isAnswer": false },
+      { "type": "Enojado", "isAnswer": false },
+      { "type": "Feliz", "isAnswer": true },
+      { "type": "Cansado", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "Translate 'fast' to Spanish.",
+    "options": [
+      { "type": "Lento", "isAnswer": false },
+      { "type": "Rápido", "isAnswer": true },
+      { "type": "Bajo", "isAnswer": false },
+      { "type": "Corto", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "What is the Spanish adjective for 'smart'?",
+    "options": [
+      { "type": "Listo", "isAnswer": true },
+      { "type": "Fuerte", "isAnswer": false },
+      { "type": "Gordo", "isAnswer": false },
+      { "type": "Feo", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "Translate 'old' to Spanish.",
+    "options": [
+      { "type": "Joven", "isAnswer": false },
+      { "type": "Viejo", "isAnswer": true },
+      { "type": "Nuevo", "isAnswer": false },
+      { "type": "Bonito", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "What is the Spanish adjective for 'strong'?",
+    "options": [
+      { "type": "Débil", "isAnswer": false },
+      { "type": "Fuerte", "isAnswer": true },
+      { "type": "Grande", "isAnswer": false },
+      { "type": "Bueno", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "Translate 'tall' to Spanish.",
+    "options": [
+      { "type": "Bajo", "isAnswer": false },
+      { "type": "Alto", "isAnswer": true },
+      { "type": "Delgado", "isAnswer": false },
+      { "type": "Pequeño", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "What is the Spanish adjective for 'thin'?",
+    "options": [
+      { "type": "Delgado", "isAnswer": true },
+      { "type": "Gordo", "isAnswer": false },
+      { "type": "Alto", "isAnswer": false },
+      { "type": "Feo", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Adjectives",
+    "question": "Translate 'new' to Spanish.",
+    "options": [
+      { "type": "Viejo", "isAnswer": false },
+      { "type": "Nuevo", "isAnswer": true },
+      { "type": "Bueno", "isAnswer": false },
+      { "type": "Feo", "isAnswer": false }
+    ]
+  },
+ 
+{
+    "lesson": "Prepositions",
+    "question": "What preposition would you use to indicate location 'under the table' in Spanish?",
+    "options": [
+      { "type": "Sobre", "isAnswer": false },
+      { "type": "Al lado de", "isAnswer": false },
+      { "type": "Debajo de", "isAnswer": true },
+      { "type": "Encima de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "Translate 'behind the house' to Spanish.",
+    "options": [
+      { "type": "En frente de", "isAnswer": false },
+      { "type": "Detrás de", "isAnswer": true },
+      { "type": "Cerca de", "isAnswer": false },
+      { "type": "Lejos de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "What is the Spanish preposition for 'between the chairs'?",
+    "options": [
+      { "type": "A través de", "isAnswer": false },
+      { "type": "Detrás de", "isAnswer": false },
+      { "type": "Entre", "isAnswer": true },
+      { "type": "Al lado de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "Translate 'on the book' to Spanish.",
+    "options": [
+      { "type": "Debajo de", "isAnswer": false },
+      { "type": "Encima de", "isAnswer": true },
+      { "type": "En frente de", "isAnswer": false },
+      { "type": "Cerca de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "What preposition would you use to indicate movement 'to the park' in Spanish?",
+    "options": [
+      { "type": "Debajo de", "isAnswer": false },
+      { "type": "Hacia", "isAnswer": true },
+      { "type": "A través de", "isAnswer": false },
+      { "type": "Detrás de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "Translate 'across the street' to Spanish.",
+    "options": [
+      { "type": "En frente de", "isAnswer": false },
+      { "type": "Al lado de", "isAnswer": false },
+      { "type": "A través de", "isAnswer": true },
+      { "type": "Cerca de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "What is the Spanish preposition for 'next to the school'?",
+    "options": [
+      { "type": "Debajo de", "isAnswer": false },
+      { "type": "Cerca de", "isAnswer": false },
+      { "type": "Al lado de", "isAnswer": true },
+      { "type": "Detrás de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "Translate 'inside the house' to Spanish.",
+    "options": [
+      { "type": "Dentro de", "isAnswer": true },
+      { "type": "Fuera de", "isAnswer": false },
+      { "type": "Entre", "isAnswer": false },
+      { "type": "Encima de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "What preposition would you use to indicate direction 'towards the mountain' in Spanish?",
+    "options": [
+      { "type": "A través de", "isAnswer": false },
+      { "type": "Hacia la", "isAnswer": true },
+      { "type": "Detrás de", "isAnswer": false },
+      { "type": "Cerca de", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Prepositions",
+    "question": "Translate 'above the clouds' to Spanish.",
+    "options": [
+      { "type": "Bajo las", "isAnswer": false },
+      { "type": "Sobre las", "isAnswer": true },
+      { "type": "Encima de las", "isAnswer": false },
+      { "type": "Entre las", "isAnswer": false }
+    ]
+  },
+ 
+{
+    "lesson": "Simple Sentences",
+    "question": "Create a simple sentence in Spanish with the phrase 'el perro' (the dog).",
+    "options": [
+      { "type": "El perro es grande.", "isAnswer": true },
+      { "type": "Yo tengo un perro.", "isAnswer": false },
+      { "type": "El perro y el gato.", "isAnswer": false },
+      { "type": "Ella cocina.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Translate 'I eat pizza' to Spanish.",
+    "options": [
+      { "type": "Yo como pizza.", "isAnswer": true },
+      { "type": "Él bebe agua.", "isAnswer": false },
+      { "type": "Nosotros estudiamos.", "isAnswer": false },
+      { "type": "Ella corre rápido.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Construct a simple sentence with 'la playa' (the beach).",
+    "options": [
+      { "type": "Me gusta la playa.", "isAnswer": true },
+      { "type": "La playa es bonita.", "isAnswer": false },
+      { "type": "Vamos a la playa.", "isAnswer": false },
+      { "type": "Ella vive cerca de la playa.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Translate 'They read books' to Spanish.",
+    "options": [
+      { "type": "Ellos leen libros.", "isAnswer": true },
+      { "type": "Nosotros jugamos fútbol.", "isAnswer": false },
+      { "type": "Ella canta bien.", "isAnswer": false },
+      { "type": "Voy al mercado.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Create a simple sentence with 'la escuela' (the school).",
+    "options": [
+      { "type": "Voy a la escuela.", "isAnswer": true },
+      { "type": "La escuela es grande.", "isAnswer": false },
+      { "type": "Ellos estudian en la escuela.", "isAnswer": false },
+      { "type": "Ella trabaja en la escuela.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Translate 'I have a cat' to Spanish.",
+    "options": [
+      { "type": "Yo tengo un gato.", "isAnswer": true },
+      { "type": "El perro es negro.", "isAnswer": false },
+      { "type": "Ella cocina bien.", "isAnswer": false },
+      { "type": "Nosotros vivimos aquí.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Construct a simple sentence with 'el coche' (the car).",
+    "options": [
+      { "type": "El coche es rojo.", "isAnswer": true },
+      { "type": "Voy al coche.", "isAnswer": false },
+      { "type": "Nosotros compramos un coche.", "isAnswer": false },
+      { "type": "Ella conduce el coche.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Translate 'She speaks Spanish' to Spanish.",
+    "options": [
+      { "type": "Ella habla español.", "isAnswer": true },
+      { "type": "Nosotros vivimos en España.", "isAnswer": false },
+      { "type": "Ellos estudian inglés.", "isAnswer": false },
+      { "type": "Voy a España.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Create a simple sentence with 'el sol' (the sun).",
+    "options": [
+      { "type": "El sol brilla.", "isAnswer": true },
+      { "type": "Nosotros vamos al sol.", "isAnswer": false },
+      { "type": "El sol es caliente.", "isAnswer": false },
+      { "type": "Ella mira el sol.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Simple Sentences",
+    "question": "Translate 'We play music' to Spanish.",
+    "options": [
+      { "type": "Nosotros tocamos música.", "isAnswer": true },
+      { "type": "Ellos bailan en la música.", "isAnswer": false },
+      { "type": "Ella escucha música.", "isAnswer": false },
+      { "type": "Vamos a la música.", "isAnswer": false }
+    ]
+  },
+
+{
+    "lesson": "Complex Sentences",
+    "question": "Combine 'Me gusta bailar' (I like to dance) and 'la música latina' (Latin music) into a complex sentence.",
+    "options": [
+      { "type": "Me gusta bailar y la música latina.", "isAnswer": false },
+      { "type": "Me gusta bailar porque la música latina es increíble.", "isAnswer": true },
+      { "type": "La música latina es increíble y me gusta bailar.", "isAnswer": false },
+      { "type": "Me gusta bailar y la música latina es buena.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Construct a complex sentence with 'ella estudia' (she studies) and 'para ser médica' (to be a doctor).",
+    "options": [
+      { "type": "Ella estudia para ser médica y ayudar a la gente.", "isAnswer": true },
+      { "type": "Ella estudia y ser médica es difícil.", "isAnswer": false },
+      { "type": "Ella estudia y quiere ser médica.", "isAnswer": false },
+      { "type": "Ella estudia para ser médica porque es importante.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Combine 'Nosotros viajamos' (We travel) and 'por el mundo' (around the world) into a complex sentence.",
+    "options": [
+      { "type": "Nosotros viajamos y por el mundo es hermoso.", "isAnswer": false },
+      { "type": "Nosotros viajamos porque queremos ver el mundo.", "isAnswer": true },
+      { "type": "Por el mundo viajamos y nosotros disfrutamos.", "isAnswer": false },
+      { "type": "Nosotros viajamos y el mundo es grande.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Construct a complex sentence with 'él trabaja' (he works) and 'para ganar dinero' (to earn money).",
+    "options": [
+      { "type": "Él trabaja para ganar dinero y mantener a su familia.", "isAnswer": true },
+      { "type": "Él trabaja y ganar dinero es importante.", "isAnswer": false },
+      { "type": "Él trabaja y quiere ganar mucho dinero.", "isAnswer": false },
+      { "type": "Él trabaja para ganar dinero porque le gusta.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Combine 'Ellos estudian' (They study) and 'para ser ingenieros' (to be engineers) into a complex sentence.",
+    "options": [
+      { "type": "Ellos estudian para ser ingenieros y construir puentes.", "isAnswer": true },
+      { "type": "Ellos estudian y ser ingenieros es difícil.", "isAnswer": false },
+      { "type": "Ellos estudian y quieren ser ingenieros.", "isAnswer": false },
+      { "type": "Ellos estudian para ser ingenieros porque es importante.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Construct a complex sentence with 'ella vive' (she lives) and 'en una ciudad pequeña' (in a small town).",
+    "options": [
+      { "type": "Ella vive en una ciudad pequeña y le gusta la tranquilidad.", "isAnswer": true },
+      { "type": "Ella vive y una ciudad pequeña es bonita.", "isAnswer": false },
+      { "type": "Ella vive y en una ciudad pequeña es diferente.", "isAnswer": false },
+      { "type": "Ella vive en una ciudad pequeña porque es conveniente.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Combine 'Nosotros comemos' (We eat) and 'porque tenemos hambre' (because we are hungry) into a complex sentence.",
+    "options": [
+      { "type": "Nosotros comemos porque tenemos hambre y la comida está deliciosa.", "isAnswer": true },
+      { "type": "Nosotros comemos y tener hambre es normal.", "isAnswer": false },
+      { "type": "Nosotros comemos y porque tenemos hambre es importante.", "isAnswer": false },
+      { "type": "Comemos porque tenemos hambre y nos gusta la comida.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Construct a complex sentence with 'él corre' (he runs) and 'para mantenerse en forma' (to stay in shape).",
+    "options": [
+      { "type": "Él corre para mantenerse en forma y estar saludable.", "isAnswer": true },
+      { "type": "Él corre y mantenerse en forma es fácil.", "isAnswer": false },
+      { "type": "Él corre y para mantenerse en forma es divertido.", "isAnswer": false },
+      { "type": "Él corre para mantenerse en forma porque le gusta.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Combine 'Ellos viajan' (They travel) and 'para aprender sobre otras culturas' (to learn about other cultures) into a complex sentence.",
+    "options": [
+      { "type": "Ellos viajan y para aprender sobre otras culturas es educativo.", "isAnswer": true },
+      { "type": "Ellos viajan porque aprender sobre otras culturas es interesante.", "isAnswer": false },
+      { "type": "Ellos viajan y aprender sobre otras culturas es común.", "isAnswer": false },
+      { "type": "Viajan para aprender sobre otras culturas y es divertido.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Complex Sentences",
+    "question": "Construct a complex sentence with 'ella lee' (she reads) and 'porque le encanta la literatura' (because she loves literature).",
+    "options": [
+      { "type": "Ella lee porque le encanta la literatura y aprender nuevas historias.", "isAnswer": true },
+      { "type": "Ella lee y le encanta la literatura es obvio.", "isAnswer": false },
+      { "type": "Ella lee y porque le encanta la literatura es importante.", "isAnswer": false },
+      { "type": "Lee porque le encanta la literatura y la literatura es fascinante.", "isAnswer": false }
+    ]
+  },
+
+{
+    "lesson": "Real World Conversations",
+    "question": "Imagine you are asking for directions in Spanish. How would you start the conversation?",
+    "options": [
+      { "type": "Hola, ¿puedes ayudarme? Estoy perdido/a.", "isAnswer": true },
+      { "type": "¿Cómo te llamas?", "isAnswer": false },
+      { "type": "Quiero un café, por favor.", "isAnswer": false },
+      { "type": "Me gusta esta ciudad.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You're at a restaurant in a Spanish-speaking country. How would you ask for the menu?",
+    "options": [
+      { "type": "¿Me traes el menú, por favor?", "isAnswer": true },
+      { "type": "¿Cuánto cuesta?", "isAnswer": false },
+      { "type": "Necesito un taxi.", "isAnswer": false },
+      { "type": "Me gusta la comida aquí.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You want to buy a ticket for a train. How would you ask about the schedule in Spanish?",
+    "options": [
+      { "type": "¿Cuál es el horario del tren?", "isAnswer": true },
+      { "type": "Quisiera un billete.", "isAnswer": false },
+      { "type": "¿Dónde está la estación?", "isAnswer": false },
+      { "type": "Me gusta viajar.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You need to make a phone call in Spanish. How would you politely ask, 'Can I use your phone?'",
+    "options": [
+      { "type": "¿Puedo usar tu teléfono, por favor?", "isAnswer": true },
+      { "type": "¿Cómo estás?", "isAnswer": false },
+      { "type": "Quiero una habitación.", "isAnswer": false },
+      { "type": "Me encanta este lugar.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You're at a market and want to ask the price of an item. How would you phrase your question in Spanish?",
+    "options": [
+      { "type": "¿Cuánto cuesta este artículo?", "isAnswer": true },
+      { "type": "Me gusta este color.", "isAnswer": false },
+      { "type": "¿Dónde está el baño?", "isAnswer": false },
+      { "type": "Quiero comprarlo.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You're meeting someone for the first time. How would you ask 'What do you do?' in Spanish?",
+    "options": [
+      { "type": "¿A qué te dedicas?", "isAnswer": true },
+      { "type": "¿Cómo te llamas?", "isAnswer": false },
+      { "type": "Me gusta trabajar.", "isAnswer": false },
+      { "type": "Quiero aprender más español.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You're at a Spanish-speaking friend's house. How would you ask 'May I use the restroom?'",
+    "options": [
+      { "type": "¿Puedo usar el baño?", "isAnswer": true },
+      { "type": "¿Dónde está la cocina?", "isAnswer": false },
+      { "type": "Me gusta tu casa.", "isAnswer": false },
+      { "type": "Quiero salir ahora.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You want to compliment someone's cooking in Spanish. How would you express this?",
+    "options": [
+      { "type": "La comida está deliciosa. Felicidades.", "isAnswer": true },
+      { "type": "Me gusta tu ropa.", "isAnswer": false },
+      { "type": "¿Cuántos años tienes?", "isAnswer": false },
+      { "type": "Quiero algo de beber.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You're at a social event and want to introduce yourself. How would you start the conversation?",
+    "options": [
+      { "type": "Hola, soy [tu nombre]. Mucho gusto.", "isAnswer": true },
+      { "type": "¿Cómo estás?", "isAnswer": false },
+      { "type": "Quiero aprender español.", "isAnswer": false },
+      { "type": "Me gusta este lugar.", "isAnswer": false }
+    ]
+  },
+  {
+    "lesson": "Real World Conversations",
+    "question": "You need to ask someone for help in Spanish. How would you politely ask, 'Can you assist me?'",
+    "options": [
+      { "type": "¿Puedes ayudarme, por favor?", "isAnswer": true },
+      { "type": "Quiero comprar algo.", "isAnswer": false },
+      { "type": "¿Cuándo es tu cumpleaños?", "isAnswer": false },
+      { "type": "Me gusta este trabajo.", "isAnswer": false }
+    ]
+  }
+]  

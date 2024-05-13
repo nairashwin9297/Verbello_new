@@ -1,0 +1,402 @@
+[
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/orange.png",
+    "text": "Naranja",
+    "englishTranslation": "Orange",
+    "description": "Yo bebo jugo de naranja todos los días.",
+    "engDescription": "I drink orange juice every day."
+  },
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/blue.png",
+    "text": "Azul",
+    "englishTranslation": "Blue",
+    "description": "El cielo está azul hoy.",
+    "engDescription": "The sky is blue today."
+  },
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/red.png",
+    "text": "Rojo",
+    "englishTranslation": "Red",
+    "description": "Me gusta llevar una camiseta roja.",
+    "engDescription": "I like to wear a red shirt."
+  },
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/green.png",
+    "text": "Verde",
+    "englishTranslation": "Green",
+    "description": "Los árboles son verdes en primavera.",
+    "engDescription": "The trees are green in spring."
+  },
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/yellow.png",
+    "text": "Amarillo",
+    "englishTranslation": "Yellow",
+    "description": "El sol brilla en un cielo amarillo.",
+    "engDescription": "The sun shines in a yellow sky."
+  },
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/pink.png",
+    "text": "Rosa",
+    "englishTranslation": "Pink",
+    "description": "A ella le encantan las flores rosas.",
+    "engDescription": "She loves pink flowers."
+  },
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/purple.png",
+    "text": "Morado",
+    "englishTranslation": "Purple",
+    "description": "El vestido es un color morado hermoso.",
+    "engDescription": "The dress is a beautiful purple color."
+  },
+  {
+    "lesson": "Colors",
+    "imageUrl": "/images/lessons/colors/turqoise.png",
+    "text": "Turquesa",
+    "englishTranslation": "Turquoise",
+    "description": "El mar tiene un tono turquesa en esa área.",
+    "engDescription": "The sea has a turquoise hue in that area."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/avocado.jpg",
+    "text": "Aguacate",
+    "englishTranslation": "Avocado",
+    "description": "El aguacate es una fruta deliciosa y saludable.",
+    "engDescription": "Avocado is a delicious and healthy fruit."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/banana.webp",
+    "text": "Plátano",
+    "englishTranslation": "Banana",
+    "description": "El plátano es una fruta popular y versátil.",
+    "engDescription": "Banana is a popular and versatile fruit."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/cherry.jpg",
+    "text": "Cereza",
+    "englishTranslation": "Cherry",
+    "description": "Las cerezas son pequeñas y dulces.",
+    "engDescription": "Cherries are small and sweet."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/oranges.jpg",
+    "text": "Naranja",
+    "englishTranslation": "Orange",
+    "description": "Las naranjas son jugosas y llenas de vitamina C.",
+    "engDescription": "Oranges are juicy and full of vitamin C."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/papaya.jpg",
+    "text": "Papaya",
+    "englishTranslation": "Papaya",
+    "description": "La papaya es una fruta tropical deliciosa y nutritiva.",
+    "engDescription": "Papaya is a delicious and nutritious tropical fruit."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/pineapple.jpg",
+    "text": "Piña",
+    "englishTranslation": "Pineapple",
+    "description": "La piña es jugosa y llena de sabor.",
+    "engDescription": "Pineapple is juicy and flavorful."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/strawberry.jpg",
+    "text": "Fresa",
+    "englishTranslation": "Strawberry",
+    "description": "Las fresas son pequeñas, rojas y sabrosas.",
+    "engDescription": "Strawberries are small, red, and tasty."
+  },
+  {
+    "lesson": "Fruits",
+    "imageUrl": "/images/lessons/fruits/watermelon.jpg",
+    "text": "Sandía",
+    "englishTranslation": "Watermelon",
+    "description": "La sandía es refrescante y dulce en verano.",
+    "engDescription": "Watermelon is refreshing and sweet in summer."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/broccoli.jpg",
+    "text": "Brócoli",
+    "englishTranslation": "Broccoli",
+    "description": "El brócoli es una verdura nutritiva y deliciosa.",
+    "engDescription": "Broccoli is a nutritious and delicious vegetable."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/cabbage.jpg",
+    "text": "Col",
+    "englishTranslation": "Cabbage",
+    "description": "La col es crujiente y se usa en ensaladas y platos cocidos.",
+    "engDescription": "Cabbage is crunchy and used in salads and cooked dishes."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/carrots.jpg",
+    "text": "Zanahoria",
+    "englishTranslation": "Carrot",
+    "description": "Las zanahorias son dulces y ricas en betacaroteno.",
+    "engDescription": "Carrots are sweet and rich in beta-carotene."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/garlic.jpg",
+    "text": "Ajo",
+    "englishTranslation": "Garlic",
+    "description": "El ajo agrega sabor a muchos platos.",
+    "engDescription": "Garlic adds flavor to many dishes."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/potato.jpg",
+    "text": "Patata",
+    "englishTranslation": "Potato",
+    "description": "Las patatas se pueden cocinar de muchas maneras diferentes.",
+    "engDescription": "Potatoes can be cooked in many different ways."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/tomato.jpg",
+    "text": "Tomate",
+    "englishTranslation": "Tomato",
+    "description": "Los tomates son jugosos y se usan en ensaladas y salsas.",
+    "engDescription": "Tomatoes are juicy and used in salads and sauces."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/spinach.jpg",
+    "text": "Espinaca",
+    "englishTranslation": "Spinach",
+    "description": "La espinaca es rica en hierro y se usa en ensaladas y platos calientes.",
+    "engDescription": "Spinach is rich in iron and used in salads and hot dishes."
+  },
+  {
+    "lesson": "Vegetables",
+    "imageUrl": "/images/lessons/vegetables/cauliflower.jpg",
+    "text": "Coliflor",
+    "englishTranslation": "Cauliflower",
+    "description": "La coliflor se puede comer cruda o cocida.",
+    "engDescription": "Cauliflower can be eaten raw or cooked."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/eagle.jpg",
+    "text": "Águila",
+    "englishTranslation": "Eagle",
+    "description": "El águila es un ave majestuosa y poderosa.",
+    "engDescription": "The eagle is a majestic and powerful bird."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/flamingo.jpg",
+    "text": "Flamenco",
+    "englishTranslation": "Flamingo",
+    "description": "El flamenco tiene un colorido plumaje y patas largas.",
+    "engDescription": "The flamingo has colorful plumage and long legs."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/owl.jpg",
+    "text": "Búho",
+    "englishTranslation": "Owl",
+    "description": "El búho es conocido por su visión nocturna y silencioso vuelo.",
+    "engDescription": "The owl is known for its night vision and silent flight."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/parrot.jpg",
+    "text": "Loro",
+    "englishTranslation": "Parrot",
+    "description": "El loro es un ave parlante y colorida.",
+    "engDescription": "The parrot is a talkative and colorful bird."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/peacock.jpg",
+    "text": "Pavo real",
+    "englishTranslation": "Peacock",
+    "description": "El pavo real tiene un hermoso plumaje con colores llamativos.",
+    "engDescription": "The peacock has beautiful plumage with striking colors."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/penguin.jpg",
+    "text": "Pingüino",
+    "englishTranslation": "Penguin",
+    "description": "El pingüino es un ave marina que no vuela y vive en climas fríos.",
+    "engDescription": "The penguin is a flightless seabird living in cold climates."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/hummingbird.jpg",
+    "text": "Colibrí",
+    "englishTranslation": "Hummingbird",
+    "description": "El colibrí es un ave pequeña y rápida conocida por su vuelo rápido.",
+    "engDescription": "he hummingbird is a small, fast bird known for its quick flight."
+  },
+  {
+    "lesson": "Birds",
+    "imageUrl": "/images/lessons/birds/toucan.jpg",
+    "text": "Tucán",
+    "englishTranslation": "Toucan",
+    "description": "El tucán tiene un pico largo y colorido.",
+    "engDescription": "The toucan has a long and colorful beak."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/cat.jpg",
+    "text": "Gato",
+    "englishTranslation": "Cat",
+    "description": "El gato es un animal doméstico popular y cariñoso.",
+    "engDescription": "The cat is a popular and affectionate domestic animal."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/deer.jpg",
+    "text": "Ciervo",
+    "englishTranslation": "Deer",
+    "description": "El ciervo tiene cuernos y es conocido por su agilidad.",
+    "engDescription": "The deer has antlers and is known for its agility."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/dog.jpg",
+    "text": "Perro",
+    "englishTranslation": "Dog",
+    "description": "El perro es el mejor amigo del hombre y una mascota leal.",
+    "engDescription": "The dog is man's best friend and a loyal pet."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/fox.jpg",
+    "text": "Zorro",
+    "englishTranslation": "Fox",
+    "description": "El zorro tiene un pelaje rojizo y es astuto.",
+    "engDescription": "The fox has a reddish fur and is cunning."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/leopard.jpg",
+    "text": "Leopardo",
+    "englishTranslation": "Leopard",
+    "description": "El leopardo tiene manchas y es un gran cazador.",
+    "engDescription": "The leopard has spots and is a great hunter."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/panda.jpg",
+    "text": "Panda",
+    "englishTranslation": "Panda",
+    "description": "El panda es un animal tierno y come bambú.",
+    "engDescription": "The panda is a cute animal and eats bamboo."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/squirrel.jpg",
+    "text": "Ardilla",
+    "englishTranslation": "Squirrel",
+    "description": "La ardilla es pequeña y tiene una cola peluda.",
+    "engDescription": "The squirrel is small and has a furry tail."
+  },
+  {
+    "lesson": "Animals",
+    "imageUrl": "/images/lessons/animals/turtle.jpg",
+    "text": "Tortuga",
+    "englishTranslation": "Turtle",
+    "description": "La tortuga tiene un caparazón y vive en el agua y en tierra.",
+    "engDescription": "The turtle has a shell and lives in water and on land."
+  },
+  {
+    "lesson": "Tenses",
+    "imageUrl": "/images/lessons/tenses/tenses.jpg",
+    "text": "Presente del Indicativo",
+    "englishTranslation": "Present Indicative",
+    "description": "Hablo español.",
+    "engDescription": "I speak Spanish"
+  },
+  {
+    "lesson": "Tenses",
+    "imageUrl": "/images/lessons/tenses/tenses.jpg",
+    "text": "Pretérito Perfecto Simple",
+    "englishTranslation": "Preterite Indicative",
+    "description": "Hablé con él ayer.",
+    "engDescription": "I talked to him yesterday."
+  },
+  {
+    "lesson": "Tenses",
+    "imageUrl": "/images/lessons/tenses/tenses.jpg",
+    "text": "Pretérito Imperfecto",
+    "englishTranslation": "Imperfect Indicative",
+    "description": "Hablaba todos los días.",
+    "engDescription": "He spoke every day."
+  },
+  {
+    "lesson": "Tenses",
+    "imageUrl": "/images/lessons/tenses/tenses.jpg",
+    "text": "Futuro Simple",
+    "englishTranslation": "Future Indicative",
+    "description": "Hablaré contigo más tarde.",
+    "engDescription": "Talk to you later."
+  },
+  {
+    "lesson": "Tenses",
+    "imageUrl": "/images/lessons/tenses/tenses.jpg",
+    "text": "Pretérito Perfecto Compuesto",
+    "englishTranslation": "Present Perfect Indicative",
+    "description": "He hablado con ellos.",
+    "engDescription": "I have talked with them."
+  },
+  {
+    "lesson": "Articles",
+    "imageUrl": "/images/lessons/articles/articles.jpg",
+    "text": "El",
+    "englishTranslation": "The (Definite Article - Masculine)",
+    "description": "El gato está en la casa.",
+    "engDescription": "The cat is in the house."
+  },
+  {
+    "lesson": "Articles",
+    "imageUrl": "/images/lessons/articles/articles.jpg",
+    "text": "La",
+    "englishTranslation": "The (Definite Article - Feminine)",
+    "description": "La mesa es grande.",
+    "engDescription": "The table is big."
+  },
+  {
+    "lesson": "Articles",
+    "imageUrl": "/images/lessons/articles/articles.jpg",
+    "text": "Un",
+    "englishTranslation": "A/An (Indefinite Article - Masculine)",
+    "description": "Un perro ladra fuerte.",
+    "engDescription": "A dog barks loudly."
+  },
+  {
+    "lesson": "Articles",
+    "imageUrl": "/images/lessons/articles/articles.jpg",
+    "text": "Una",
+    "englishTranslation": "A/An (Indefinite Article - Feminine)",
+    "description": "Una casa blanca.",
+    "engDescription": "A white house."
+  },
+  {
+    "lesson": "Articles",
+    "imageUrl": "/images/lessons/articles/articles.jpg",
+    "text": "Los",
+    "englishTranslation": "Los/Las (plural in Masculine / Feminine)",
+    "description": "Los hombres",
+    "engDescription": "The men"
+  }
+]

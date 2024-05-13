@@ -1,0 +1,24 @@
+/* .container {
+    max-width: 500px;
+    margin: 0 auto;
+  } */
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  .form-label {
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    width: 100%;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+
+.signup-container {
+  background-image: linear-gradient(to bottom, #523c85, #24bdd7);
+}

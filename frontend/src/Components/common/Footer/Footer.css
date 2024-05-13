@@ -1,0 +1,31 @@
+.footer-bgcolor {
+  background-color: #021f4c;
+  background-image: linear-gradient(to bottom, #24bdd7, #523c85);
+}
+
+.footer {
+  color: #fff; /* Text color */
+  padding: 40px 0; /* Adjust padding as needed */
+}
+
+.footer h3 {
+  color: #fff; /* Heading color */
+  font-size: 18px; /* Adjust font size */
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.footer p {
+  font-size: 14px; /* Adjust font size */
+  line-height: 1.6; /* Adjust line height */
+}
+
+.bottom-bar {
+  padding: 10px 0; /* Padding for the bottom bar */
+  text-align: center; /* Center-align text */
+}
+
+.bottom-bar p {
+  margin: 0;
+  font-size: 1em;
+  font-weight: bold;
+}

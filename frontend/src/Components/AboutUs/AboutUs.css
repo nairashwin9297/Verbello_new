@@ -1,0 +1,79 @@
+/* AboutUs.css */
+
+.about-us-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .about-us-content {
+    flex-grow: 1;
+    padding: 40px;
+    background-color: #f0f5f9; /* Light blue background */
+    text-align: center;
+  }
+  
+  .hero-section {
+    margin-bottom: 40px;
+  }
+  
+  .about-us-heading {
+    color: #007bff; /* Blue heading color */
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-description {
+    color: #4a5568;
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+  }
+  
+  .section {
+    margin-top: 40px;
+  }
+  
+  .section-heading {
+    color: #007bff;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .features-list {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .feature-item {
+    width: 30%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 20px; /* Added margin */
+  }
+  
+  .feature-item:hover {
+    transform: scale(1.05);
+  }
+  
+  h3 {
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #4a5568;
+  }
+  
+  footer {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 40px;
+  }
+  

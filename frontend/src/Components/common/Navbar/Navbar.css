@@ -1,0 +1,29 @@
+.logo {
+    max-height: 10vh;
+}
+
+.navbar-logo {
+    text-decoration: none;
+}
+
+  li a{
+    text-decoration: none !important; 
+  }
+ 
+.logo-txt {
+    font-family: cursive;
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.5em;
+}
+
+.navbar-bgcolor {
+    background-color: #021f4c;
+    background-image: linear-gradient(to bottom, #523c85, #24bdd7);
+}
+
+.custom-toggler  {
+    background-color: #ffffff !important;
+    color: #333;
+    border: 2px solid #333;
+  }

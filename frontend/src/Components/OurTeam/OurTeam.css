@@ -1,0 +1,75 @@
+/* OurTeam.css */
+
+.our-team-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .our-team-content {
+    flex-grow: 1;
+    padding: 40px;
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+  
+  .team-heading {
+    color: #2d3748;
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+  }
+  
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+  }
+  
+  .team-member {
+    width: 250px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .team-member:hover {
+    transform: scale(1.05);
+  }
+  
+  .member-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+  }
+  
+  .member-details {
+    padding: 20px;
+  }
+  
+  .member-name {
+    margin: 0;
+    color: #2d3748;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .member-email {
+    margin: 0;
+    color: #4a5568;
+    font-size: 1.2rem;
+  }
+  
+  footer {
+    background-color: #2d3748;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 40px;
+  }
+  

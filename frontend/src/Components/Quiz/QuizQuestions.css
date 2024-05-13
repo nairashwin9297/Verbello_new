@@ -1,0 +1,133 @@
+
+.quiz-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.quiz-container {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  width: 50%;
+  border-radius: 8px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+
+.question {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.options {
+  margin-top: 20px;
+  /* display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); */
+  grid-gap: 10px;
+  max-width: 95%;
+}
+
+.option {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border: 2px solid #0e0d0d;
+  box-sizing: border-box;
+}
+
+.option:hover {
+  background-color: #e0e0e0;
+}
+
+.question {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+
+.selected {
+  background-color: #9c9a9a;
+}
+
+.correct {
+  background-color: #57eb57;
+}
+
+.incorrect {
+  background-color: #fb5555;
+}
+
+.button-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border: 2px solid #2a5c2c;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.complete-button {
+  background-color: #2196f3;
+}
+
+.complete-button:hover {
+  background-color: #0f6efd;
+}
+
+.next-button {
+  background-color: white;
+  color: blue;
+}
+
+.quiz-page {
+  /* background-color: #f8fefd; */
+  background-size: cover; 
+  background-attachment: fixed;
+}
+
+.alert-success {
+  width: 50%;
+  background-color: #95ff95;
+}
+
+.alert-danger {
+  width: 50%;
+}
+
+/* If needed, add this CSS to control the layout */
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center; /* Vertically align items */
+}
+
+/* Additional styling for spacing */
+.mascot-speaking {
+  margin-right: 0.75rem; /* Adjust the margin between the image and text */
+  height: 80vh;
+}
+
